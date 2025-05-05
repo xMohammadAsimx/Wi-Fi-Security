@@ -80,4 +80,4 @@ Wi-Fi has become an essential part of modern digital life, enabling wireless int
 - [4] N. Borisov, I. Goldberg, and D. Wagner, "Intercepting mobile communications: The insecurity of 802.11," in Proceedings of the 7th annual international conference on Mobile computing and networking. ACM, 2001, pp. 180–189.
 - [5] C. He and J. C. Mitchell, "Security analysis and improvements for ieee 802.11i," in Proceedings of the Network and Distributed System Security Symposium (NDSS), 2005.
 
-For more detailed information, please refer to the [full paper](Wi-Fi-Security/Project-Report/Wi_Fi_Network_Security.pdf) and [presentation](Wi-Fi-Security/Presentation/WiFi-Security.pdf).
+For more detailed information, please refer to the [full paper](Project-Report/Wi_Fi_Network_Security.pdf) and [presentation](Presentation/WiFi-Security.pdf).
